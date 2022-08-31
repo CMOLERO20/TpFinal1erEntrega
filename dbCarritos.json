@@ -1,0 +1,13 @@
+[
+  {
+    "productos": [
+      {
+        "title": "mirinda",
+        "price": "150",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAAAAAAAAB//9k=",
+        "id": "1"
+      }
+    ],
+    "id": "1"
+  }
+]
